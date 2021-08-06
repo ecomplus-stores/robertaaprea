@@ -12,10 +12,16 @@
       {
         "title": "Vídeos de Produtos ",
         "link": "/posts/esta-loja-e-um-pwa"
+      },
+      {
+        "title": "Acompanhe seu Pedido"
+      },
+      {
+        "title": "Suas Compras"
       }
     ],
-    "phone_wpp": true,
-    "socials": true
+    "phone_wpp": false,
+    "socials": false
   },
   "categories_list": {
     "featured": [],
