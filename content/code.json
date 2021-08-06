@@ -1,5 +1,5 @@
 {
-  "css": ".header__logo {\n    max-width: 300px;\n    max-height: 100px;\n}\n.header__nav {\n    text-align: center;\n  font-size: 1.3rem;font-family: 'Roboto', sans-serif;}\n.header__nav a:hover {\n    background: transparent;color: #f02083;\n    text-decoration: none;\n}\na {\n    color: #375159;\n    text-decoration: none;\n}\n",
+  "css": ".header__logo {\n    max-width: 300px;\n    max-height: 100px;\n}\n.header__nav {\n    text-align: center;\n  font-size: 1.1rem;font-family: 'Roboto', sans-serif;}\n.header__nav a:hover {\n    background: transparent;color: #f02083;\n    text-decoration: none;\n}\na {\n    color: #375159;\n    text-decoration: none;\n}\n",
   "html_head": "",
   "html_body": ""
 }
