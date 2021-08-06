@@ -6,11 +6,11 @@
   "contacts_stripe": {
     "pages": [
       {
-        "title": "Sobre nós",
+        "title": "Como Encomendar? ",
         "link": "/pages/sobre-nos"
       },
       {
-        "title": "Esta loja é um PWA",
+        "title": "Como Comprar?",
         "link": "/posts/esta-loja-e-um-pwa"
       }
     ],
