@@ -1,24 +1,24 @@
 {
-  "store_id": 5154,
-  "name": "robertaaprea",
   "domain": "robertaaprea.netlify.app",
-  "short_name": "robertaaprea",
-  "description": "robertaaprea",
-  "primary_color": "#222831",
-  "secondary_color": "#393e46",
-  "bg_color": "#ffffff",
+  "currency_symbol": "R$",
+  "primary_color": "#abd0dc",
   "theme": {
     "bootswatch": "_",
     "custom": "_"
   },
-  "logo": "/img/uploads/logo.png",
-  "mini_logo": "",
-  "icon": "/img/icon.png",
-  "large_icon": "/img/large-icon.png",
-  "favicon": "/img/uploads/favicon.png",
+  "bg_color": "#ffffff",
+  "repository": "ecomplus-stores/robertaaprea",
+  "logo": "/img/uploads/roberta-aprea-atelie.png",
+  "name": "robertaaprea",
+  "short_name": "robertaaprea",
   "lang": "pt_br",
   "currency": "BRL",
-  "currency_symbol": "R$",
+  "mini_logo": "",
+  "favicon": "/img/uploads/favicon.png",
   "country_code": "BR",
-  "repository": "ecomplus-stores/robertaaprea"
+  "secondary_color": "#f02083",
+  "icon": "/img/icon.png",
+  "store_id": 5154,
+  "description": "robertaaprea",
+  "large_icon": "/img/large-icon.png"
 }
