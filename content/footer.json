@@ -5,7 +5,7 @@
   },
   "links_1": {
     "list_pages": true,
-    "title": "Páginas",
+    "title": "Ajuda",
     "list": []
   },
   "links_2": {
@@ -36,8 +36,9 @@
     "hipercard": false,
     "hsbc": false,
     "bradesco": true,
-    "santander": false,
+    "santander": true,
     "mastercard": true,
+    "paypal": true,
     "citibank": false,
     "mais": false,
     "itau": true
