@@ -1,5 +1,5 @@
 {
-  "css": "",
+  "css": ".header__logo {\n    max-width: 300px;\n    max-height: 100px;\n}\n.header__nav {\n    text-align: center;\n  font-size: 1.3rem;}",
   "html_head": "",
   "html_body": ""
 }
