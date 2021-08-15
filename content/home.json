@@ -12,6 +12,13 @@
           "img": "/img/uploads/slideprazo.jpg",
           "link": "https://robertaaprea.netlify.app/pages/entrega",
           "mobile_img": "/img/uploads/slideprazomobile.jpg"
+        },
+        {
+          "start": "2021-08-15T23:33:25.252Z",
+          "end": "",
+          "img": "/img/uploads/slidelembrancas.jpg",
+          "mobile_img": "/img/uploads/slidelembrancasmobile.jpg",
+          "link": "https://robertaaprea.netlify.app/lembrancas"
         }
       ]
     },
