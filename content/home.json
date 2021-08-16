@@ -30,6 +30,16 @@
       ]
     },
     {
+      "type": "banners-grid",
+      "banners": [
+        {
+          "img": "/img/uploads/faixa.jpg",
+          "mobile_img": "/img/uploads/faixamobile.jpg",
+          "link": "https://robertaaprea.netlify.app/pages/entrega"
+        }
+      ]
+    },
+    {
       "type": "page-title",
       "title": "Presentes e Papelaria Personalizados ",
       "description": "Confira os Lançamentos do Mês "
