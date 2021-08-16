@@ -50,7 +50,22 @@
       "link": "https://robertaaprea.netlify.app/lembrancas"
     },
     {
-      "type": "banners-grid"
+      "type": "banners-grid",
+      "banners": [
+        {
+          "img": "/img/uploads/bannertrio1.jpg",
+          "link": "https://robertaaprea.netlify.app/caixa-cartonada",
+          "mobile_img": ""
+        },
+        {
+          "link": "https://robertaaprea.netlify.app/religiosos",
+          "img": "/img/uploads/bannertrio2.jpg"
+        },
+        {
+          "img": "/img/uploads/bannertrio3.jpg",
+          "link": "https://robertaaprea.netlify.app/mamae-e-bebe"
+        }
+      ]
     },
     {
       "type": "collection-shelf",
