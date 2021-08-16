@@ -63,15 +63,6 @@
       "link": "https://robertaaprea.netlify.app/papelaria-personalizada"
     },
     {
-      "type": "page-title",
-      "title": "Presentes e Papelaria Personalizados ",
-      "description": "Produtos sob encomenda, todas as informações você encontra em cada produto :) "
-    },
-    {
-      "type": "info-bar",
-      "enabled": true
-    },
-    {
       "type": "collection-shelf",
       "shuffle": false,
       "limit": 12,
@@ -80,6 +71,25 @@
       "sort": "news",
       "title": "Mamãe e Bebê : Da Gestação ao Primeiro Aniversário - Cuidado e Carinho para Vocês!",
       "link": "https://robertaaprea.netlify.app/mamae-e-bebe"
+    },
+    {
+      "type": "page-title",
+      "title": "Presentes e Papelaria Personalizados ",
+      "description": "Produtos sob encomenda, todas as informações você encontra em cada produto :) "
+    },
+    {
+      "type": "collection-shelf",
+      "shuffle": false,
+      "limit": 12,
+      "page": 1,
+      "collection_id": "610d9f2a33f3ce442f859546:categories:Lembranças:/lembrancas",
+      "sort": "news",
+      "title": "Presentes Personalizados Exclusivos desenvolvidos com Qualidade e Carinho para  Datas Especiais ",
+      "link": "https://robertaaprea.netlify.app/presentes-personalizados"
+    },
+    {
+      "type": "info-bar",
+      "enabled": true
     }
   ]
 }
