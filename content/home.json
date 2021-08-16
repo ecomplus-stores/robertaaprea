@@ -70,6 +70,16 @@
     {
       "type": "info-bar",
       "enabled": true
+    },
+    {
+      "type": "collection-shelf",
+      "shuffle": false,
+      "limit": 12,
+      "page": 1,
+      "collection_id": "610d9f2a33f3ce442f859546:categories:Lembranças:/lembrancas",
+      "sort": "news",
+      "title": "Mamãe e Bebê : Da Gestação ao Primeiro Aniversário - Cuidado e Carinho para Vocês!",
+      "link": "https://robertaaprea.netlify.app/mamae-e-bebe"
     }
   ]
 }
