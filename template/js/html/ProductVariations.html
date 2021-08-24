@@ -1,0 +1,63 @@
+<div
+  class="variations"
+  v-if="product.variations"
+>
+  <div
+    v-for="(options, grid, index) in variationsGrids"
+    v-if="filteredGrids[grid]"
+    :class="`variations__grid variations__grid--${grid}`"
+  >
+    <div class="mb-2">
+      <span class="variations__grid-title h5">
+        {{ getGridTitle(grid) }}
+      </span>
+
+      <span
+        v-if="selectedOptions[grid]"
+        key="success"
+        class="variations__value variations__value"
+      >
+        <i class="fas fa-check mr-1"></i>
+        {{ selectedOptions[grid] }}
+      </span>
+      <span
+        v-else
+        class="variations__value variations__value--empty"
+      >
+        <i class="fas fa-arrow-down mr-1"></i>
+        {{ i19selectVariation }}
+      </span>
+    </div>
+
+    <template v-if="options.length">
+      <button
+        v-for="(optionText, i) in options"
+        class="variations__option btn btn-light"
+        :class="[selectedOptions[grid] === optionText ? 'variations__option--selected' : null, `variations__option--${optionText}`]"
+        :style="grid === 'colors' ? getColorOptionBg(optionText) : null"
+        @click="selectOption(optionText, grid, index)"
+        :disabled="!filteredGrids[grid].includes(optionText)"
+      >
+        <span
+          v-if="grid === 'escolha_a_capa'"
+          class="arte-capa"
+        > 
+          <img
+            :src="variationsImgs[i].imgChosen" 
+            :alt="optionText"
+          >
+          <span class="text-with-img">
+            {{ optionText }}
+          </span>
+        </span>
+        <span
+          v-else
+        >
+          {{ optionText }}
+        </span>
+        
+      </button>
+
+    </template>
+  </div>
+</div>
