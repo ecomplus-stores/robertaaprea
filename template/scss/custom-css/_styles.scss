@@ -1,1 +1,68 @@
 // Add your custom CSS here.
+.variations__grid--escolha_sua_capa {
+    max-height: 300px;
+    overflow-y: auto;
+    @media(min-width: 767px) {
+        .variations__option {
+            img {
+                width: 20%;
+            }
+            border: 0;
+            background-color: none;
+            width: 20%;
+        }
+    }
+    @media(max-width: 767px) {
+        .variations__option {
+            img {
+                width: 30%;
+            }
+            border: 0;
+            background-color: none;
+            width: 30%;
+        }
+    }
+}
+.variations__grid--escolha_sua_capa {
+    button {
+        background-color: transparent;
+    }
+    .variations__option--selected {
+        box-shadow: none !important;
+        background-color: transparent !important;
+        &:hover {
+            box-shadow: none !important;
+            background-color: transparent !important;
+        }
+        img {
+            border: 1px solid;
+            padding: 3px; 
+        }
+    }
+} 
+
+.arte-capa {
+    display: flex;
+    flex-direction: column;
+    background-color: none;
+}
+@media(min-width: 767px) {
+    .arte-capa img {
+        min-width: 79px;
+    }
+    .arte-capa span {
+        max-width: 79px;
+        height: 48px;
+        text-align: center;
+        font-size: 15px;
+    }
+}
+@media(max-width: 767px) {
+    .arte-capa img {
+        min-width: 100px;
+    }
+    .arte-capa span {
+        max-width: 100px;
+        height: 48px;
+    }
+}

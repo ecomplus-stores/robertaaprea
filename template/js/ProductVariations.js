@@ -56,13 +56,16 @@ import {
 
       variationsImgs () {
         const interestInfo = []
-        this.product.variations.forEach(item => {
-          interestInfo.push({
-            name: item.name.split('/').pop().trim(),
-            imgChosen: item.picture_id ? this.product.pictures.find(img => img._id === item.picture_id).normal.url : false
+        if (this.product && this.product.variations) {
+          this.product.variations.forEach(item => {
+            console.log(item)
+            interestInfo.push({
+              name: item.name ? item.name.split('/').pop().trim() : '',
+              imgChosen: item.picture_id ? this.product.pictures.find(img => img._id === item.picture_id) : false
+            })
           })
-        })
-        return interestInfo
+          return interestInfo
+        }
       }
     },
   

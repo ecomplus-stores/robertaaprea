@@ -39,11 +39,11 @@
         :disabled="!filteredGrids[grid].includes(optionText)"
       >
         <span
-          v-if="grid === 'escolha_a_capa'"
+          v-if="grid === 'escolha_sua_capa' && variationsImgs[i].imgChosen"
           class="arte-capa"
         > 
           <img
-            :src="variationsImgs[i].imgChosen" 
+            :src="variationsImgs[i].imgChosen.zoom.url" 
             :alt="optionText"
           >
           <span class="text-with-img">
