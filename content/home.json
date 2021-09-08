@@ -45,7 +45,7 @@
       "collection_id": "610d9f2a33f3ce442f859546:categories:Lembranças:/lembrancas",
       "limit": 12,
       "page": 1,
-      "sort": "news",
+      "sort": "lowest_price",
       "title": "Lançamentos ",
       "link": "https://robertaaprea.netlify.app/lembrancas"
     },
