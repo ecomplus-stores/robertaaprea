@@ -5,6 +5,11 @@
       "enabled": true
     },
     {
+      "type": "page-title",
+      "title": "Atenção: O Valor dos Produtos são referentes a Unidade. .",
+      "description": "Trabalhamos com pedido mínimo em alguns produtos. Clicando em comprar ele já será adicionado ao carrinho calculando o valor do total dos produtos escolhidos"
+    },
+    {
       "type": "product-block",
       "enabled": true
     },
