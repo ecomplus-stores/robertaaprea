@@ -14,6 +14,10 @@
       "enabled": true
     },
     {
+      "type": "custom-content",
+      "markdown": "Pedido Mínimo"
+    },
+    {
       "type": "product-description",
       "enabled": true
     },
