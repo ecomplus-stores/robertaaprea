@@ -42,10 +42,10 @@
     {
       "type": "collection-shelf",
       "shuffle": true,
-      "collection_id": "610d9f2a33f3ce442f859546:categories:Lembranças:/lembrancas",
+      "collection_id": null,
       "limit": 12,
       "page": 1,
-      "sort": "lowest_price",
+      "sort": "news",
       "title": "Lançamentos ",
       "link": "https://robertaaprea.netlify.app/lembrancas"
     },
@@ -83,14 +83,9 @@
       "limit": 12,
       "page": 1,
       "collection_id": "610d9f0d33f3ce442f85952d:categories:Mamãe & Bebê:/mamae-e-bebe",
-      "sort": "lowest_price",
+      "sort": "news",
       "title": "Mamãe e Bebê : Da Gestação ao Primeiro Aniversário - Cuidado e Carinho para Vocês!",
       "link": "https://robertaaprea.netlify.app/mamae-e-bebe"
-    },
-    {
-      "type": "page-title",
-      "title": "O Valor dos Produtos são referentes a Unidade. ",
-      "description": "Trabalhamos com pedido mínimo em alguns produtos. Clicando em comprar ele já será adicionado ao carrinho calculando o valor do total dos produtos escolhidos."
     },
     {
       "type": "collection-shelf",
@@ -98,7 +93,7 @@
       "limit": 12,
       "page": 1,
       "collection_id": "611a756bcfbcd970597f5370:categories:Presentes:/presentes-personalizados/",
-      "sort": "lowest_price",
+      "sort": "news",
       "title": "Presentes Personalizados Exclusivos desenvolvidos com Qualidade e Carinho para  Datas Especiais ",
       "link": "https://robertaaprea.netlify.app/presentes-personalizados/"
     },
