@@ -2,5 +2,22 @@
   "title": "Sobre nós",
   "meta_title": "Sobre nós",
   "meta_description": "Sobre nós",
-  "body": "### Lorem ipsum dolor sit amet"
+  "body": "**Olá somos do Roberta Aprea Ateliê!**\nSeja muito bem-vindo!\nNossa Missão é Surpreender! \nQuando me tornei mãe meu mundo se encheu de cores, magia e encantos. \nA forma lúdica de ver a vida ganhou mais espaço e as comemorações afetivas foram adquirindo uma importância maior. \nE assim fui idealizando a nossa empresa, empreendendo, sonhando, buscando o encantamento e para isso, estamos em constante aprendizado com novas técnicas, muitos desafios e novas conquistas.\nNossos produtos são de alta qualidade e feitos exclusivamente handmade. \nO seu sonho é o motivo do nosso, se tornar real. \nCom carinho, \n\n**Equipe Roberta Aprea**",
+  "sections": [
+    {
+      "type": "breadcrumbs",
+      "enabled": true
+    },
+    {
+      "type": "extra-page",
+      "enabled": true
+    },
+    {
+      "type": "collection-shelf",
+      "shuffle": false,
+      "limit": 12,
+      "page": 1,
+      "sort": "views"
+    }
+  ]
 }
