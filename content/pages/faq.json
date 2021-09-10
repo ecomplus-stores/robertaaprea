@@ -1,6 +1,27 @@
 {
-  "title": "Dúvidas frequentes",
+  "title": "Como Comprar",
   "meta_title": "Dúvidas frequentes",
   "meta_description": "Dúvidas frequentes",
-  "body": "### Lorem ipsum dolor sit amet"
+  "body": "É muito fácil encomendar seus produtos na Roberta Aprea Ateliê \n\n1) Escolha seus produtos, clique em comprar.\n\n2) Após escolher todos os produtos que deseja encomendar. Clique em Finalizar Compra \n3) Defina o frete de envio\n4) Confirme seus dados para envio, confira se todos os dados estão corretos, caso falte alguma numeração ou dado para envio, o retorno e reenvio será cobrado do cliente, não nos responsabilizamos por informações incorretas ou dados faltantes.\n5) Escolha a forma de pagamento e finalize a compra.\n\n\\\nPronto, seu pedido será confeccionado e embalado para postagem.\n\nAtente-se aos prazos : Após Calcular seu frete o Prazo Total é a soma do Prazo de Produção + Prazo do Frete escolhido.\n\nCaso seu produto tenha algum item que necessite de nossa confirmação ou aprovação de arte, aguarde que entraremos em contato após confirmação do pagamento. \n\nAgora é só aguardar seu pedido chegar na sua casa.\n\n\\\nPara correios e/ ou transportadora , após postagem a responsabilidade do cumprimento dos prazos é de responsabilidade dos mesmo.\n\n\nEstaremos sempre acompanhando seu pedido para que ele chegue o quanto antes para você.\n\n\nSe ficar com alguma dúvida estamos a disposição pelo[ whatsapp](https://api.whatsapp.com/send?1=pt_BR&phone=55051981051965) .",
+  "sections": [
+    {
+      "type": "breadcrumbs",
+      "enabled": true
+    },
+    {
+      "type": "extra-page",
+      "enabled": true
+    },
+    {
+      "type": "collection-shelf",
+      "shuffle": false,
+      "limit": 12,
+      "page": 1,
+      "sort": "news"
+    },
+    {
+      "type": "info-bar",
+      "enabled": true
+    }
+  ]
 }
