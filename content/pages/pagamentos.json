@@ -2,5 +2,22 @@
   "title": "Formas de pagamento",
   "meta_title": "Formas de pagamento",
   "meta_description": "Formas de pagamento",
-  "body": "\n\n## a"
+  "body": "## Aceitamos cartão de crédito, parcele suas compras em até 12x no cartão.</p>\n\nPara **pagamento à vista** via boleto bancário ganhe 5% de desconto em suas compras. \n\nPara **pagamento à vista** via PIX ou Depósito ganhe 10% de desconto em suas compras. \n\nPara Pix ou Depósito Bancário encaminhe o comprovante de pagamento por whatsapp ou email: contato@robertaapreaatelie.com.br para agilizar o início da produção de seu pedido.",
+  "sections": [
+    {
+      "type": "breadcrumbs",
+      "enabled": true
+    },
+    {
+      "type": "extra-page",
+      "enabled": true
+    },
+    {
+      "type": "collection-shelf",
+      "shuffle": false,
+      "limit": 12,
+      "page": 1,
+      "sort": "news"
+    }
+  ]
 }
