@@ -68,7 +68,7 @@
 }
 .product__prices, .product-card__prices {
     .prices__value::after {
-        content: " por unidade";
+        content: " valor unitário";
         color: #000;
         font-weight: 400;
     }
