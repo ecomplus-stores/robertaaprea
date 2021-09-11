@@ -73,3 +73,7 @@
         font-weight: 400;
     }
 }
+.product__customization label::after {
+    content: "obrigatório inserir para finalizar compra";
+    color: red
+}
