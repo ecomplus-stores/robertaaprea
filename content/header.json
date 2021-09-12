@@ -19,7 +19,7 @@
       },
       {
         "title": "Suas Compras",
-        "link": "https://robertaaprea.netlify.app/app/#/cart"
+        "link": "https://robertaaprea.netlify.app/app/#/account/orders"
       }
     ],
     "phone_wpp": false,
