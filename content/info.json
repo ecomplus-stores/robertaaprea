@@ -1,11 +1,13 @@
 {
   "shipping": {
     "show": true,
-    "text": "Envio Expresso para Porto Alegre - Confira Regiões Atendidas* "
+    "text": "Envio Expresso para Porto Alegre - Confira Regiões Atendidas* ",
+    "link": "https://robertaaprea.netlify.app/pages/entrega"
   },
   "installments": {
     "show": true,
-    "text": "Parcele em até 3x sem juros suas compras "
+    "text": "Parcele em até 12x suas compras no cartão ",
+    "link": "https://robertaaprea.netlify.app/pages/pagamentos"
   },
   "exchange": {
     "show": false,
