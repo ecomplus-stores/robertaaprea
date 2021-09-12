@@ -7,21 +7,22 @@
     "pages": [
       {
         "title": "Como Encomendar? ",
-        "link": "/pages/sobre-nos"
+        "link": "https://robertaaprea.netlify.app/pages/faq"
       },
       {
         "title": "Vídeos de Produtos ",
         "link": "https://robertaaprea.netlify.app/blog"
       },
       {
-        "title": "Acompanhe seu Pedido"
+        "title": "Acompanhe seu Pedido",
+        "link": "https://robertaaprea.netlify.app/app/#/account/"
       },
       {
         "title": "Suas Compras"
       }
     ],
     "phone_wpp": false,
-    "socials": false
+    "socials": true
   },
   "categories_list": {
     "featured": [],
