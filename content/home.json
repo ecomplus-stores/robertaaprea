@@ -61,7 +61,7 @@
       "shuffle": false,
       "limit": 12,
       "page": 1,
-      "sort": "highest_price",
+      "sort": "views",
       "collection_id": "610d9ec233f3ce442f8594dd:categories:Papelaria:/papelaria-personalizada",
       "title": "Papelaria Personalizada : Planners, Agendas e mais confira ",
       "link": "https://robertaaprea.netlify.app/papelaria-personalizada"
@@ -82,7 +82,7 @@
       "limit": 12,
       "page": 1,
       "collection_id": "611a756bcfbcd970597f5370:categories:Presentes:/presentes-personalizados/",
-      "sort": "highest_price",
+      "sort": "views",
       "title": "Presentes Personalizados Exclusivos desenvolvidos com Qualidade e Carinho para  Datas Especiais ",
       "link": "https://robertaaprea.netlify.app/presentes-personalizados/"
     },
