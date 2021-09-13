@@ -28,7 +28,8 @@
       "type": "banners-grid",
       "banners": [
         {
-          "img": "/img/uploads/fachada1.jpg"
+          "img": "/img/uploads/fachada1.jpg",
+          "link": "https://robertaaprea.netlify.app/pages/entrega"
         }
       ]
     },
@@ -36,13 +37,16 @@
       "type": "banners-grid",
       "banners": [
         {
-          "img": "/img/uploads/papelariatrio.jpg"
+          "img": "/img/uploads/papelariatrio.jpg",
+          "link": "https://robertaaprea.netlify.app/papelaria-personalizada"
         },
         {
-          "img": "/img/uploads/presentestrio.jpg"
+          "img": "/img/uploads/presentestrio.jpg",
+          "link": "https://robertaaprea.netlify.app/presentes-personalizados/"
         },
         {
-          "img": "/img/uploads/lembrancastrio.jpg"
+          "img": "/img/uploads/lembrancastrio.jpg",
+          "link": "https://robertaaprea.netlify.app/lembrancas"
         }
       ]
     },
@@ -90,10 +94,12 @@
       "type": "banners-grid",
       "banners": [
         {
-          "img": "/img/uploads/duopag.jpg"
+          "img": "/img/uploads/duopag.jpg",
+          "link": "https://robertaaprea.netlify.app/pages/pagamentos"
         },
         {
-          "img": "/img/uploads/duo.jpg"
+          "img": "/img/uploads/duo.jpg",
+          "link": "https://robertaaprea.netlify.app/convites/"
         }
       ]
     },
