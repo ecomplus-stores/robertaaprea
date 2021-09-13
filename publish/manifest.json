@@ -1,0 +1,37 @@
+{
+  "icons": [
+    {
+      "src": "/icon_512x512.b72a49e9b78fa378b43a210d9256ebe5.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon_384x384.2463649fccf6bee88cf40102e9a35093.png",
+      "sizes": "384x384",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon_192x192.e161efcd3f249fed7dde6fd138329be2.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon_128x128.f8d05c326a652772e2384c7a4caa31bd.png",
+      "sizes": "128x128",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon_96x96.3d5f98c103b5cec7902d8ace5689bd20.png",
+      "sizes": "96x96",
+      "type": "image/png"
+    }
+  ],
+  "name": "Roberta Aprea Ateliê - Presentes Exclusivos e Papelaria Personalizada",
+  "short_name": "Roberta Aprea Ateliê",
+  "orientation": "portrait",
+  "display": "standalone",
+  "start_url": ".",
+  "description": "Loja de Presentes Exclusivos e Papelaria Personalizada produzidos com Qualidade e Amor por Roberta Aprea \nSeu produto é desenvolvido com várias técnicas, cada detalhe é pensado para levar até  você o melhor e o mais encantador que o momento merece.\nPresentes Exclusivos, Lembranças para Festas e Papelaria Personalizada. Envio para Todo Brasil, espero seu pedido! ",
+  "background_color": "#ffffff",
+  "theme_color": "#abd0dc"
+}
