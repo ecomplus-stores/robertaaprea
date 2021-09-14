@@ -57,7 +57,7 @@
       "limit": 12,
       "page": 1,
       "sort": "news",
-      "title": "Lançamentos ",
+      "title": "↬ Confira as Novidades do Mês ↫",
       "link": "https://robertaaprea.netlify.app/lembrancas"
     },
     {
@@ -67,7 +67,7 @@
       "page": 1,
       "sort": "views",
       "collection_id": "610d9ec233f3ce442f8594dd:categories:Papelaria:/papelaria-personalizada",
-      "title": "Papelaria Personalizada : Planners, Agendas e mais confira ",
+      "title": "↬ Papelaria Personalizada: Planners, Cadernos, Diários, Bloquinhos ↫",
       "link": "https://robertaaprea.netlify.app/papelaria-personalizada"
     },
     {
@@ -77,7 +77,7 @@
       "page": 1,
       "collection_id": "610d9f0d33f3ce442f85952d:categories:Mamãe & Bebê:/mamae-e-bebe",
       "sort": "views",
-      "title": "Mamãe e Bebê : Da Gestação ao Primeiro Aniversário - Cuidado e Carinho para Vocês!",
+      "title": "♡ Mamãe e Bebê : Da Gestação ao Primeiro Aniversário - Cuidado e Carinho para Vocês! ♡",
       "link": "https://robertaaprea.netlify.app/mamae-e-bebe"
     },
     {
@@ -87,7 +87,7 @@
       "page": 1,
       "collection_id": "611a756bcfbcd970597f5370:categories:Presentes:/presentes-personalizados/",
       "sort": "views",
-      "title": "Presentes Personalizados Exclusivos desenvolvidos com Qualidade e Carinho para  Datas Especiais ",
+      "title": "❀ Presentes Personalizados Exclusivos desenvolvidos com Qualidade e Carinho para Datas Especiais ☺",
       "link": "https://robertaaprea.netlify.app/presentes-personalizados/"
     },
     {
