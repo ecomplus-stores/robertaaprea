@@ -9,7 +9,8 @@
         {
           "start": "2021-09-13T11:10:55.016Z",
           "end": "",
-          "img": "/img/uploads/slidefachada.jpg"
+          "img": "/img/uploads/slidefachada.jpg",
+          "link": "https://robertaaprea.netlify.app/presentes-personalizados/"
         },
         {
           "start": "2021-09-13T11:10:58.505Z",
@@ -21,7 +22,8 @@
         {
           "start": "2021-09-13T11:11:01.946Z",
           "end": "",
-          "img": "/img/uploads/slidepresentes.jpg"
+          "img": "/img/uploads/slidepresentes.jpg",
+          "link": "https://robertaaprea.netlify.app/presentes-personalizados/"
         }
       ]
     },
