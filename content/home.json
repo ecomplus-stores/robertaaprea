@@ -7,16 +7,16 @@
       "autoplay": 9000,
       "slides": [
         {
-          "start": "2021-09-13T11:10:55.016Z",
-          "end": "",
-          "img": "/img/uploads/slidefachada.jpg",
-          "link": "https://loja.robertaapreaatelie.com.br/presentes-personalizados/"
-        },
-        {
           "start": "2021-09-13T11:10:58.505Z",
           "end": "",
           "img": "/img/uploads/slidelancamento.jpg",
           "mobile_img": "",
+          "link": "https://loja.robertaapreaatelie.com.br/colecao-2022-papelaria-personalizada"
+        },
+        {
+          "start": "2021-09-13T11:10:55.016Z",
+          "end": "",
+          "img": "/img/uploads/slidefachada.jpg",
           "link": "https://loja.robertaapreaatelie.com.br/colecao-2022-papelaria-personalizada"
         },
         {
@@ -32,7 +32,7 @@
       "banners": [
         {
           "img": "/img/uploads/fachada1.jpg",
-          "link": "https://robertaaprea.netlify.app/pages/entrega"
+          "link": "https://loja.robertaapreaatelie.com.br/pages/entrega"
         }
       ]
     },
@@ -41,7 +41,7 @@
       "banners": [
         {
           "img": "/img/uploads/papelariatrio.jpg",
-          "link": "https://robertaaprea.netlify.app/papelaria-personalizada"
+          "link": "https://loja.robertaapreaatelie.com.br/colecao-2022-papelaria-personalizada"
         },
         {
           "img": "/img/uploads/presentestrio.jpg",
@@ -56,22 +56,22 @@
     {
       "type": "collection-shelf",
       "shuffle": true,
-      "collection_id": "610d9ec233f3ce442f8594dd:categories:Papelaria:/papelaria-personalizada",
+      "collection_id": "614057f2522ab535e60dad62:collections:Coleção 2022:/colecao-2022-papelaria-personalizada",
       "limit": 12,
       "page": 1,
       "sort": "news",
       "title": "↬ Confira as Novidades do Mês ",
-      "link": "https://robertaaprea.netlify.app/lembrancas"
+      "link": "https://loja.robertaapreaatelie.com.br/colecao-2022-papelaria-personalizada"
     },
     {
       "type": "collection-shelf",
       "shuffle": true,
       "limit": 12,
       "page": 1,
-      "sort": "slug",
+      "sort": "offers",
       "collection_id": "610d9ec233f3ce442f8594dd:categories:Papelaria:/papelaria-personalizada",
       "title": "↬ Papelaria Personalizada: Planners, Cadernos, Diários, Bloquinhos e mais vem conferir!",
-      "link": "https://robertaaprea.netlify.app/papelaria-personalizada"
+      "link": "https://loja.robertaapreaatelie.com.br/papelaria-personalizada"
     },
     {
       "type": "collection-shelf",
@@ -79,9 +79,9 @@
       "limit": 12,
       "page": 1,
       "collection_id": "610d9f0d33f3ce442f85952d:categories:Mamãe & Bebê:/mamae-e-bebe",
-      "sort": "highest_price",
+      "sort": "views",
       "title": "♡ Mamãe e Bebê : Da Gestação ao Primeiro Aniversário - Cuidado e Carinho para Vocês! ",
-      "link": "https://robertaaprea.netlify.app/mamae-e-bebe"
+      "link": "https://loja.robertaapreaatelie.com.br/mamae-e-bebe"
     },
     {
       "type": "collection-shelf",
@@ -91,18 +91,18 @@
       "collection_id": "611a756bcfbcd970597f5370:categories:Presentes:/presentes-personalizados/",
       "sort": "news",
       "title": "❀ Presentes Personalizados Exclusivos desenvolvidos com Qualidade e Carinho para Datas Especiais",
-      "link": "https://robertaaprea.netlify.app/presentes-personalizados/"
+      "link": "https://loja.robertaapreaatelie.com.br/presentes-personalizados/"
     },
     {
       "type": "banners-grid",
       "banners": [
         {
           "img": "/img/uploads/duopag1.jpg",
-          "link": "https://robertaaprea.netlify.app/pages/pagamentos"
+          "link": "https://loja.robertaapreaatelie.com.br/pages/pagamentos"
         },
         {
           "img": "/img/uploads/convites1.jpg",
-          "link": "https://robertaaprea.netlify.app/convites/"
+          "link": "https://loja.robertaapreaatelie.com.br/convites/"
         }
       ]
     },
