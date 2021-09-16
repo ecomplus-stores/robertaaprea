@@ -77,3 +77,25 @@
     content: "obrigatório inserir para finalizar compra";
     color: red
 }
+.minicart__aside .minicart__btn-checkout {
+    display: none;
+}
+#checkToPay .form-check {
+    text-align: right;
+}
+#storefront-app {
+    padding-bottom: 0 !important;
+}
+.cart__info .cart__btn-checkout {
+    display: none;
+}
+.form-check .form-check-label {
+    text-align: start;
+}
+.minicart__aside .minicart__btn-cart {
+    font-size: 0;
+    &::after {
+        content: "Finalizar Compra";
+        font-size: 1rem !important;
+    }
+}
