@@ -22,7 +22,9 @@
     "socials": true
   },
   "categories_list": {
-    "featured": [],
+    "featured": [
+      "/colecao-2022-papelaria-personalizada?Coleção 2022"
+    ],
     "random": 7,
     "full_width": true
   },
