@@ -7,15 +7,15 @@
     "pages": [
       {
         "title": "Como Encomendar? ",
-        "link": "https://robertaaprea.netlify.app/pages/faq"
+        "link": "https://loja.robertaapreaatelie.com.br/pages/faq"
       },
       {
         "title": "Acompanhe seu Pedido",
-        "link": "https://robertaaprea.netlify.app/app/#/account/"
+        "link": "https://loja.robertaapreaatelie.com.br/app/#/account/orders"
       },
       {
         "title": "Suas Compras",
-        "link": "https://robertaaprea.netlify.app/app/#/account/orders"
+        "link": "https://loja.robertaapreaatelie.com.br/app/#/account/orders"
       }
     ],
     "phone_wpp": false,
