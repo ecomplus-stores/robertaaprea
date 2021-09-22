@@ -78,6 +78,16 @@
       "shuffle": false,
       "limit": 12,
       "page": 1,
+      "collection_id": "614a9d24bf447b5f0e031949:categories:Pronta Entrega:/pronta-entrega",
+      "sort": "news",
+      "link": "https://loja.robertaapreaatelie.com.br/pronta-entrega",
+      "title": "↬ Produtos a Pronta Entrega "
+    },
+    {
+      "type": "collection-shelf",
+      "shuffle": false,
+      "limit": 12,
+      "page": 1,
       "collection_id": "610d9f0d33f3ce442f85952d:categories:Mamãe & Bebê:/mamae-e-bebe",
       "sort": "views",
       "title": "♡ Mamãe e Bebê : Da Gestação ao Primeiro Aniversário - Cuidado e Carinho para Vocês! ",
