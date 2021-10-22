@@ -9,6 +9,14 @@
       "enabled": true
     },
     {
+      "type": "banners-grid",
+      "banners": [
+        {
+          "img": "/img/uploads/fachadamb.jpg"
+        }
+      ]
+    },
+    {
       "type": "extra-page",
       "enabled": true
     },
