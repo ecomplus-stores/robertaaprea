@@ -32,7 +32,8 @@
       "banners": [
         {
           "img": "/img/uploads/fachada1n.jpg",
-          "link": "https://loja.robertaapreaatelie.com.br/pages/entrega"
+          "link": "https://loja.robertaapreaatelie.com.br/pages/entrega",
+          "mobile_img": "/img/uploads/fachadamb.jpg"
         }
       ]
     },
