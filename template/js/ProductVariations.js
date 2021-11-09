@@ -57,11 +57,13 @@ import {
       variationsImgs () {
         const interestInfo = []
         if (this.product && this.product.variations) {
-          this.product.variations.forEach(item => {
-            interestInfo.push({
-              name: item.name ? item.name.split('/').pop().trim() : '',
-              imgChosen: item.picture_id ? this.product.pictures.find(img => img._id === item.picture_id) : false
-            })
+          this.product.variations.forEach((item, i) => {
+            if (i % this.orderedGrids.length === 0) {
+              interestInfo.push({
+                name: item.name ? item.name.split('/').pop().trim() : '',
+                imgChosen: item.picture_id ? this.product.pictures.find(img => img._id === item.picture_id) : false
+              })
+            }
           })
           return interestInfo
         }
