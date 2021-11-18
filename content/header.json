@@ -30,8 +30,8 @@
       "/lembrancas?Lembranças",
       "/presentes-personalizados/?Presentes",
       "/convites/?Convites ",
-      "/mais-categorias/?+ Categorias",
-      "/natal?Natal"
+      "/natal?Natal",
+      "/mais-categorias/?+ Categorias"
     ],
     "random": 9,
     "full_width": true
