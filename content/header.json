@@ -24,9 +24,16 @@
   "categories_list": {
     "featured": [
       "/especial-colecao-2022?Coleção 2022",
-      "/pronta-entrega?Pronta Entrega"
+      "/pronta-entrega?Pronta Entrega",
+      "/papelaria-personalizada?Papelaria",
+      "/mamae-e-bebe?Mamãe & Bebê",
+      "/lembrancas?Lembranças",
+      "/presentes-personalizados/?Presentes",
+      "/convites/?Convites ",
+      "/mais-categorias/?+ Categorias",
+      "/natal?Natal"
     ],
-    "random": 8,
+    "random": 9,
     "full_width": true
   },
   "search_input": true
