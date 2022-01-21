@@ -7,12 +7,6 @@
       "autoplay": 9000,
       "slides": [
         {
-          "start": "2022-01-02T20:24:46.456Z",
-          "end": "",
-          "img": "/img/uploads/janeiroslide.jpg",
-          "link": "https://loja.robertaapreaatelie.com.br/especial-colecao-2022"
-        },
-        {
           "start": "2021-09-13T11:11:01.946Z",
           "end": "",
           "img": "/img/uploads/slidepresentes.jpg",
@@ -33,7 +27,8 @@
           "link": "https://loja.robertaapreaatelie.com.br/pronta-entrega",
           "alt": "Confira nossa Pronta Entrega"
         }
-      ]
+      ],
+      "full_width": true
     },
     {
       "type": "banners-grid",
