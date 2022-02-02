@@ -63,7 +63,7 @@
       "collection_id": "614057f2522ab535e60dad62:collections:Coleção 2022:/colecao-2022-papelaria-personalizada",
       "limit": 12,
       "page": 1,
-      "sort": "sales",
+      "sort": "news",
       "title": "↬ Coleção 2022 - Os mais queridos ",
       "link": "https://loja.robertaapreaatelie.com.br/especial-colecao-2022"
     },
@@ -73,7 +73,7 @@
       "limit": 12,
       "page": 1,
       "collection_id": "614a9d24bf447b5f0e031949:categories:Pronta Entrega:/pronta-entrega",
-      "sort": "news",
+      "sort": "views",
       "link": "https://loja.robertaapreaatelie.com.br/pronta-entrega",
       "title": "↬ Produtos a Pronta Entrega "
     },
@@ -82,7 +82,7 @@
       "shuffle": false,
       "limit": 12,
       "page": 1,
-      "sort": "lowest_price",
+      "sort": "news",
       "collection_id": "610d9ec233f3ce442f8594dd:categories:Papelaria:/papelaria-personalizada",
       "title": "↬ Papelaria Funcional e Personalizada : Organize seu Novo Ano!",
       "link": "https://loja.robertaapreaatelie.com.br/papelaria-personalizada"
@@ -93,7 +93,7 @@
       "limit": 12,
       "page": 1,
       "collection_id": "611a756bcfbcd970597f5370:categories:Presentes:/presentes-personalizados/",
-      "sort": "sales",
+      "sort": "views",
       "title": "❀ Presentes Personalizados Exclusivos desenvolvidos com Qualidade e Carinho para Datas Especiais",
       "link": "https://loja.robertaapreaatelie.com.br/presentes-personalizados/"
     },
@@ -103,7 +103,7 @@
       "limit": 12,
       "page": 1,
       "collection_id": "610d9f0d33f3ce442f85952d:categories:Mamãe & Bebê:/mamae-e-bebe",
-      "sort": "sales",
+      "sort": "views",
       "title": "♡ Mamãe e Bebê : Da Gestação ao Primeiro Aniversário - Cuidado e Carinho para Vocês! ",
       "link": "https://loja.robertaapreaatelie.com.br/mamae-e-bebe"
     },
