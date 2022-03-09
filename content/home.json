@@ -58,6 +58,11 @@
       ]
     },
     {
+      "type": "dynamic-showcase",
+      "load_more": false,
+      "sort": "news"
+    },
+    {
       "type": "collection-shelf",
       "shuffle": false,
       "collection_id": "614057f2522ab535e60dad62:collections:Coleção 2022:/colecao-2022-papelaria-personalizada",
