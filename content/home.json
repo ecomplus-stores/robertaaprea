@@ -58,6 +58,16 @@
       ]
     },
     {
+      "type": "collection-shelf",
+      "shuffle": false,
+      "limit": 12,
+      "page": 1,
+      "collection_id": "6119cd20cfbcd970597f142f:categories:Páscoa:/pascoa",
+      "sort": "views",
+      "title": "↬ Coleção Páscoa chegou ! Confira ",
+      "link": "https://loja.robertaapreaatelie.com.br/pascoa"
+    },
+    {
       "type": "dynamic-showcase",
       "load_more": false,
       "sort": "news"
@@ -91,16 +101,6 @@
       "collection_id": "610d9ec233f3ce442f8594dd:categories:Papelaria:/papelaria-personalizada",
       "title": "↬ Papelaria Funcional e Personalizada : Organize seu Novo Ano!",
       "link": "https://loja.robertaapreaatelie.com.br/papelaria-personalizada"
-    },
-    {
-      "type": "collection-shelf",
-      "shuffle": false,
-      "limit": 12,
-      "page": 1,
-      "collection_id": "611a756bcfbcd970597f5370:categories:Presentes:/presentes-personalizados/",
-      "sort": "views",
-      "title": "❀ Presentes Personalizados Exclusivos desenvolvidos com Qualidade e Carinho para Datas Especiais",
-      "link": "https://loja.robertaapreaatelie.com.br/presentes-personalizados/"
     },
     {
       "type": "collection-shelf",
