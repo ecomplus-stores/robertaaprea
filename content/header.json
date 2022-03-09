@@ -23,6 +23,7 @@
   },
   "categories_list": {
     "featured": [
+      "/pascoa?Páscoa",
       "/especial-colecao-2022?Coleção 2022",
       "/pronta-entrega?Pronta Entrega",
       "/papelaria-personalizada?Papelaria",
@@ -35,5 +36,6 @@
     "random": 9,
     "full_width": true
   },
-  "search_input": true
+  "search_input": true,
+  "desktop_megamenu": true
 }
