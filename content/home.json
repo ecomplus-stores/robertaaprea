@@ -7,25 +7,31 @@
       "autoplay": 9000,
       "slides": [
         {
-          "start": "2021-09-13T11:11:01.946Z",
+          "start": "2022-03-14T17:01:40.947Z",
           "end": "",
-          "img": "/img/uploads/slidepresentes.jpg",
-          "link": "https://loja.robertaapreaatelie.com.br/presentes-personalizados/",
+          "img": "/img/uploads/pascoeaster.jpg",
+          "link": "https://loja.robertaapreaatelie.com.br/pascoa"
+        },
+        {
+          "start": "2022-03-14T16:59:41.313Z",
+          "end": "",
+          "img": "/img/uploads/pascoacrista.jpg",
+          "link": "https://loja.robertaapreaatelie.com.br/caixacomjogodamemoriapascoa",
           "alt": "Encomende Presentes Exclusivos "
         },
         {
-          "start": "2021-11-18T17:25:55.245Z",
+          "start": "2022-03-14T17:00:38.055Z",
           "end": "2021-11-18T17:25:55.330Z",
-          "img": "/img/uploads/slidenov2.jpg",
-          "link": "https://loja.robertaapreaatelie.com.br/master-planner-2022-personalizado",
-          "alt": "Master Planner 2022 - Organizador Multifunções para seu novo Ano!"
+          "img": "/img/uploads/pascoadocuras.jpg",
+          "link": "https://loja.robertaapreaatelie.com.br/minhaprimeirapascoa",
+          "alt": "Páscoa Feliz no Ateliê Roberta Aprea"
         },
         {
-          "start": "2021-09-13T11:10:55.016Z",
+          "start": "2022-03-14T17:01:10.450Z",
           "end": "",
-          "img": "/img/uploads/slidenov1.jpg",
-          "link": "https://loja.robertaapreaatelie.com.br/pronta-entrega",
-          "alt": "Confira nossa Pronta Entrega"
+          "img": "/img/uploads/pascoaguloseimas1.jpg",
+          "link": "https://loja.robertaapreaatelie.com.br/pascoa",
+          "alt": "Vem conferir! Encomende aqui "
         }
       ],
       "full_width": true
@@ -48,8 +54,8 @@
           "link": "https://loja.robertaapreaatelie.com.br/especial-colecao-2022"
         },
         {
-          "img": "/img/uploads/presentestrio.jpg",
-          "link": "https://loja.robertaapreaatelie.com.br/presentes-personalizados/"
+          "img": "/img/uploads/triopascoa.jpg",
+          "link": "https://loja.robertaapreaatelie.com.br/pascoa"
         },
         {
           "img": "/img/uploads/lembrancastrio.jpg",
