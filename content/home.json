@@ -3,40 +3,6 @@
   "meta_description": "Compre Online produtos exclusivos e personalizados - Master Planner 2022 ",
   "sections": [
     {
-      "type": "banner-slider",
-      "autoplay": 9000,
-      "slides": [
-        {
-          "start": "2022-03-14T17:23:26.820Z",
-          "end": "",
-          "img": "/img/uploads/pascoeasterok.jpg",
-          "link": "https://loja.robertaapreaatelie.com.br/pascoa"
-        },
-        {
-          "start": "2022-03-14T16:59:41.313Z",
-          "end": "",
-          "img": "/img/uploads/pascoacrista-ok.jpg",
-          "link": "https://loja.robertaapreaatelie.com.br/caixacomjogodamemoriapascoa",
-          "alt": "Encomende Presentes Exclusivos "
-        },
-        {
-          "start": "2022-03-14T17:35:32.066Z",
-          "end": "",
-          "img": "/img/uploads/pascoadocurasok.jpg",
-          "link": "https://loja.robertaapreaatelie.com.br/minhaprimeirapascoa",
-          "alt": "Páscoa Feliz no Ateliê Roberta Aprea"
-        },
-        {
-          "start": "2022-03-14T17:31:06.184Z",
-          "end": "",
-          "img": "/img/uploads/pascoaguloseimas1ok.jpg",
-          "link": "https://loja.robertaapreaatelie.com.br/pascoa",
-          "alt": "Vem conferir! Encomende aqui "
-        }
-      ],
-      "full_width": true
-    },
-    {
       "type": "banners-grid",
       "banners": [
         {
@@ -54,24 +20,10 @@
           "link": "https://loja.robertaapreaatelie.com.br/especial-colecao-2022"
         },
         {
-          "img": "/img/uploads/triopascoa1-ok.jpg",
-          "link": "https://loja.robertaapreaatelie.com.br/pascoa"
-        },
-        {
           "img": "/img/uploads/lembrancastrio.jpg",
           "link": "https://loja.robertaapreaatelie.com.br/lembrancas"
         }
       ]
-    },
-    {
-      "type": "collection-shelf",
-      "shuffle": false,
-      "limit": 12,
-      "page": 1,
-      "collection_id": "6119cd20cfbcd970597f142f:categories:Páscoa:/pascoa",
-      "sort": "news",
-      "title": "↬ Coleção Páscoa Feliz chegou, vem conferir!",
-      "link": "https://loja.robertaapreaatelie.com.br/pascoa"
     },
     {
       "type": "collection-shelf",
