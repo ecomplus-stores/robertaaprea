@@ -43,7 +43,7 @@
           class="arte-capa"
         > 
           <img
-            :src="variationsImgs[i].imgChosen.zoom.url" 
+            :src="(variationsImgs.find(item => item.name === optionText) || variationsImgs[i]).imgChosen.zoom.url" 
             :alt="optionText"
           >
           <span class="text-with-img">
