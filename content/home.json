@@ -13,6 +13,36 @@
       ]
     },
     {
+      "type": "collection-shelf",
+      "shuffle": false,
+      "collection_id": "6119cb55cfbcd970597f132c:categories:Infantil:/lembrancas-festas-infantil",
+      "limit": 12,
+      "page": 1,
+      "sort": "news",
+      "title": "↬ Lembranças para Comemorações Inesquecíveis ",
+      "link": "https://loja.robertaapreaatelie.com.br/lembrancas-festas-infantil"
+    },
+    {
+      "type": "collection-shelf",
+      "shuffle": false,
+      "limit": 12,
+      "page": 1,
+      "sort": "news",
+      "collection_id": "611a756bcfbcd970597f5370:categories:Presentes:/presentes-personalizados/",
+      "title": "↬ Encante com Presentes Personalizados",
+      "link": "https://loja.robertaapreaatelie.com.br/presentes-personalizados/"
+    },
+    {
+      "type": "collection-shelf",
+      "shuffle": false,
+      "limit": 12,
+      "page": 1,
+      "collection_id": "610d9f0d33f3ce442f85952d:categories:Mamãe & Bebê:/mamae-e-bebe",
+      "sort": "views",
+      "title": "♡ Mamãe e Bebê : Da Gestação ao Primeiro Aniversário - Cuidado e Carinho para Vocês! ",
+      "link": "https://loja.robertaapreaatelie.com.br/mamae-e-bebe"
+    },
+    {
       "type": "banners-grid",
       "banners": [
         {
@@ -28,12 +58,12 @@
     {
       "type": "collection-shelf",
       "shuffle": false,
-      "collection_id": "614057f2522ab535e60dad62:collections:Coleção 2022:/colecao-2022-papelaria-personalizada",
       "limit": 12,
       "page": 1,
+      "collection_id": "614057f2522ab535e60dad62:collections:Coleção 2022:/colecao-2022-papelaria-personalizada",
       "sort": "news",
-      "title": "↬ Coleção 2022 - Os mais queridos ",
-      "link": "https://loja.robertaapreaatelie.com.br/especial-colecao-2022"
+      "link": "https://loja.robertaapreaatelie.com.br/especial-colecao-2022",
+      "title": "↬ Papelaria Personalizada : Organize-se com Planners, Cadernos e mais "
     },
     {
       "type": "collection-shelf",
@@ -44,26 +74,6 @@
       "sort": "views",
       "link": "https://loja.robertaapreaatelie.com.br/pronta-entrega",
       "title": "↬ Produtos a Pronta Entrega "
-    },
-    {
-      "type": "collection-shelf",
-      "shuffle": false,
-      "limit": 12,
-      "page": 1,
-      "sort": "news",
-      "collection_id": "610d9ec233f3ce442f8594dd:categories:Papelaria:/papelaria-personalizada",
-      "title": "↬ Papelaria Funcional e Personalizada : Organize seu Novo Ano!",
-      "link": "https://loja.robertaapreaatelie.com.br/papelaria-personalizada"
-    },
-    {
-      "type": "collection-shelf",
-      "shuffle": false,
-      "limit": 12,
-      "page": 1,
-      "collection_id": "610d9f0d33f3ce442f85952d:categories:Mamãe & Bebê:/mamae-e-bebe",
-      "sort": "views",
-      "title": "♡ Mamãe e Bebê : Da Gestação ao Primeiro Aniversário - Cuidado e Carinho para Vocês! ",
-      "link": "https://loja.robertaapreaatelie.com.br/mamae-e-bebe"
     },
     {
       "type": "banners-grid",
