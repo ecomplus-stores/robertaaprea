@@ -3,6 +3,41 @@
   "meta_description": "Compre Online Produtos Exclusivos e Personalizados - Envio para Todo Brasil",
   "sections": [
     {
+      "type": "banner-slider",
+      "autoplay": 9000,
+      "full_width": true,
+      "slides": [
+        {
+          "start": "2022-06-21T12:49:28.014Z",
+          "end": "",
+          "img": "/img/uploads/slide-jogos-lembrancas-1.jpg",
+          "mobile_img": "/img/uploads/slide-jogos-lembrancas-1m.jpg",
+          "link": "https://loja.robertaapreaatelie.com.br/mastercaixacomjogosmodelo2"
+        },
+        {
+          "start": "2022-06-21T12:50:23.385Z",
+          "end": "",
+          "img": "/img/uploads/slide-lembrancas-infantil-junho22.jpg",
+          "mobile_img": "/img/uploads/slide-lembrancas-infantil-junho22m.jpg",
+          "link": "https://loja.robertaapreaatelie.com.br/caixa-supresa-4-lados"
+        },
+        {
+          "start": "2022-06-21T12:51:10.607Z",
+          "end": "",
+          "img": "/img/uploads/slide-lembrancas-maleta-junho22.jpg",
+          "mobile_img": "/img/uploads/slide-lembrancas-maleta-junho22m.jpg",
+          "link": "https://loja.robertaapreaatelie.com.br/maleta-de-atividades-triangular"
+        },
+        {
+          "start": "2022-06-21T12:51:59.902Z",
+          "end": "",
+          "img": "/img/uploads/slide-papelaria-luxo-junho22.jpg",
+          "mobile_img": "/img/uploads/slide-papelaria-luxo-junho22m.jpg",
+          "link": "https://loja.robertaapreaatelie.com.br/caixapapelariapersonalizadaluxo"
+        }
+      ]
+    },
+    {
       "type": "banners-grid",
       "banners": [
         {
