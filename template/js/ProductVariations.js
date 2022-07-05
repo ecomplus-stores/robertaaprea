@@ -54,11 +54,21 @@ import {
         return Object.keys(this.variationsGrids)
       },
 
+      numberOfImages () {
+        let mult = 1
+        this.orderedGrids.forEach(grid => {
+          if(grid !== 'escolha_sua_capa') {
+            mult *= this.variationsGrids[grid].length
+          }
+        })
+        return mult
+      },
+
       variationsImgs () {
         const interestInfo = []
         if (this.product && this.product.variations) {
           this.product.variations.forEach((item, i) => {
-            if (i % this.orderedGrids.length === 0) {
+            if (i % this.numberOfImages === 0) {
               interestInfo.push({
                 name: item.name ? item.name.split('/').pop().trim() : '',
                 imgChosen: item.picture_id ? this.product.pictures.find(img => img._id === item.picture_id) : false
