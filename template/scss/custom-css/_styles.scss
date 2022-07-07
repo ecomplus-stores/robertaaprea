@@ -174,8 +174,10 @@
     top: 100%;
     right: 12px;
 }
-.apx_widgets_worker-giftWrap-example:hover .giftPopover img{max-width:100px;max-height:100px}
-.apx_widgets_worker-giftWrap-example:hover .giftPopover {
+.apx_widgets_worker-giftWrap-example .giftPopover img{max-width:100px;max-height:100px}
+.apx_giftWrap,
+.apx_giftWrap *{cursor:pointer}
+.apx_giftWrap:hover .apx_widgets_worker-giftWrap-example .giftPopover {
     opacity: 1;
     transition: opacity .3s;
 }
