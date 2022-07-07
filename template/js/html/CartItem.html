@@ -131,8 +131,13 @@
         class="cart-item__customizations"
       />
       <div class="apx_giftWrap d-none" :data-item="JSON.stringify(item)">
-        <label>
-            <input type="checkbox" :checked="item.customizations.find(el => el._id == '460860165721941794800000') ? 'checked' : ''"> Embalar para presente <span></span>
+        <label class="d-flex justify-content-between">
+            <div>
+              <input type="checkbox" :checked="item.customizations.find(el => el._id == '460860165721941794800000') ? 'checked' : ''"> Embalar para presente <span></span>
+            </div>
+            <span class="apx_widgets_worker-giftWrap-example">?
+              <div class="giftPopover"><img src="/img/uploads/embalagem_robertaprea.jpeg"></div>
+            </span>
         </label>
       </div>
     </div>
