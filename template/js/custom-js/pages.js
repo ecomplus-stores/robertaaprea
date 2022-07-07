@@ -44,7 +44,7 @@ window.habilitarPresente = function(pid, _id){
     //console.log('buscou ' + pid);
     let customizations = JSON.parse(sessionStorage.getItem('gift_'+ pid ));
     //console.log(customizations);
-    let hasGiftWrap = customizations.find(el => el.grid_id == 'apx_gift_wrap');
+    let hasGiftWrap = customizations.find(el => el._id == '460860165721941794800000');
     //console.log(hasGiftWrap);
     if(hasGiftWrap){
         $('[product_id="'+ _id +'"] .apx_giftWrap').removeClass('d-none');
