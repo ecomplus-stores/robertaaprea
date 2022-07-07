@@ -99,3 +99,26 @@
         font-size: 1rem !important;
     }
 }
+
+.apx_giftWrap{font-size:11px}
+.apx_giftWrap input{
+    vertical-align: middle;
+    margin:0 5px 0 0;
+}
+
+.cart-item__customizations{
+    left: auto!important;
+    margin: 5px 0 10px 0;
+    position: relative!important;
+    top: auto!important;
+    right: auto!important;
+}
+.cart-item__customizations *{
+    font-size:11px!important
+}
+
+.cart__list > span,
+.minicart__list > span{
+    display:flex;
+    flex-direction:column
+}
