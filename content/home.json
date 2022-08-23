@@ -48,6 +48,25 @@
       ]
     },
     {
+      "type": "page-title",
+      "title": "PRÉ- VENDA: Coleção 2023 - Papelaria Personalizada"
+    },
+    {
+      "type": "dynamic-showcase",
+      "load_more": false,
+      "sort": "news"
+    },
+    {
+      "type": "collection-shelf",
+      "shuffle": false,
+      "limit": 12,
+      "page": 1,
+      "collection_id": "6140f5b7522ab535e60e484a:categories:Master Planner:/master-planner-personalizado",
+      "sort": "news",
+      "title": "PRÉ- VENDA:  Master Planner Coleção 2023 ",
+      "link": "https://loja.robertaapreaatelie.com.br/master-planner-personalizado"
+    },
+    {
       "type": "collection-shelf",
       "shuffle": false,
       "collection_id": "6119cb55cfbcd970597f132c:categories:Infantil:/lembrancas-festas-infantil",
@@ -89,16 +108,6 @@
           "link": "https://loja.robertaapreaatelie.com.br/lembrancas"
         }
       ]
-    },
-    {
-      "type": "collection-shelf",
-      "shuffle": false,
-      "limit": 12,
-      "page": 1,
-      "collection_id": "6304d06d225fcd0d801c74b9:collections:Coleção 2023:/colecao-2023",
-      "sort": "news",
-      "link": "https://loja.robertaapreaatelie.com.br/colecao-2023",
-      "title": "↬ Papelaria Personalizada : Organize-se com Planners, Cadernos e mais "
     },
     {
       "type": "collection-shelf",
