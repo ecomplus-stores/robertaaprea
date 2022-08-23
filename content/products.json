@@ -26,14 +26,6 @@
       "enabled": true
     },
     {
-      "type": "banners-grid",
-      "banners": [
-        {
-          "img": "/img/uploads/fachadamb.jpg"
-        }
-      ]
-    },
-    {
       "type": "related-products",
       "title": "❁ Produtos relacionados ❁"
     },
