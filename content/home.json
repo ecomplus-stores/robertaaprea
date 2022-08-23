@@ -67,6 +67,19 @@
       "link": "https://loja.robertaapreaatelie.com.br/master-planner-personalizado"
     },
     {
+      "type": "banners-grid",
+      "banners": [
+        {
+          "img": "/img/uploads/bannertrio.jpg",
+          "link": "https://loja.robertaapreaatelie.com.br/colecao-2023"
+        },
+        {
+          "img": "/img/uploads/combos.jpg",
+          "link": "https://loja.robertaapreaatelie.com.br/colecao-2023"
+        }
+      ]
+    },
+    {
       "type": "collection-shelf",
       "shuffle": false,
       "collection_id": "6119cb55cfbcd970597f132c:categories:Infantil:/lembrancas-festas-infantil",
@@ -118,19 +131,6 @@
       "sort": "sales",
       "link": "https://loja.robertaapreaatelie.com.br/pronta-entrega",
       "title": "↬ Produtos a Pronta Entrega "
-    },
-    {
-      "type": "banners-grid",
-      "banners": [
-        {
-          "img": "/img/uploads/duopag1.jpg",
-          "link": "https://loja.robertaapreaatelie.com.br/pages/pagamentos"
-        },
-        {
-          "img": "/img/uploads/convites1.jpg",
-          "link": "https://loja.robertaapreaatelie.com.br/convites/"
-        }
-      ]
     },
     {
       "type": "info-bar",
