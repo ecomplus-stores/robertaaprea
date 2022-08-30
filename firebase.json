@@ -1,6 +1,16 @@
 {
   "hosting": {
     "redirects": [
+      {
+        "source": "/especial-colecao-2022",
+        "destination": "/colecao-2023",
+        "type": 301
+      },
+      {
+        "source": "/colecao-2022-papelaria-personalizada",
+        "destination": "/colecao-2023",
+        "type": 301
+      }
     ],
     "public": "dist",
     "ignore": [
