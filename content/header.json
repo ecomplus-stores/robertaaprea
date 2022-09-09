@@ -23,6 +23,7 @@
   },
   "categories_list": {
     "featured": [
+      "/colecao-le-jardin-xuxa-pires?Coleção Le Jardin por Xuxa Pires",
       "/colecao-2023?Coleção 2023",
       "/pronta-entrega?Pronta Entrega",
       "/papelaria-personalizada?Papelaria",
@@ -36,5 +37,7 @@
     "full_width": true
   },
   "search_input": true,
-  "desktop_megamenu": false
+  "desktop_megamenu": false,
+  "alphabetical_order_submenu": true,
+  "full_width_submenu": true
 }
