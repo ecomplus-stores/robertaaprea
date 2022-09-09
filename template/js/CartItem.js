@@ -188,8 +188,8 @@ import {
         if(!customizations){
             store({ url: `/products/${pid}.json` })
                 .then(({data}) => {
-                    console.log('bbb')
-                    console.log(data);
+                    // console.log('bbb')
+                    // console.log(data);
                     sessionStorage.setItem('gift_' + pid, JSON.stringify(data.customizations))
                     window.habilitarPresente(pid,_id)
                 })
