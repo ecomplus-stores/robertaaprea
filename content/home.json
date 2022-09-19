@@ -12,7 +12,7 @@
           "end": "",
           "img": "/img/uploads/prevenda-master.jpg",
           "link": "https://loja.robertaapreaatelie.com.br/master-planner-personalizado",
-          "mobile_img": "/img/uploads/prevenda-mastern.jpg"
+          "mobile_img": "/img/uploads/banner-mobile-2023.jpg"
         },
         {
           "start": "2022-08-23T16:11:09.154Z",
@@ -80,18 +80,18 @@
       "page": 1,
       "collection_id": "6140f5b7522ab535e60e484a:categories:Master Planner:/master-planner-personalizado",
       "sort": "news",
-      "title": "↬PRÉ- VENDA:  Master Planner Coleção 2023 ",
+      "title": "↬LANÇAMENTO:  Master Planner Coleção 2023 ",
       "link": "https://loja.robertaapreaatelie.com.br/master-planner-personalizado"
     },
     {
       "type": "banners-grid",
       "banners": [
         {
-          "img": "/img/uploads/bannertrio.jpg",
+          "img": "/img/uploads/banner-mobile-2023-colecao.jpg",
           "link": "https://loja.robertaapreaatelie.com.br/colecao-2023"
         },
         {
-          "img": "/img/uploads/combos.jpg",
+          "img": "/img/uploads/banner-mobile-2023-combos.jpg",
           "link": "https://loja.robertaapreaatelie.com.br/colecao-2023"
         }
       ]
