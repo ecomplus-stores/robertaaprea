@@ -59,7 +59,7 @@
     },
     {
       "type": "custom-content",
-      "markdown": "<!--StartFragment-->\n\n**<p>**Não perca mais tempo com presentes genéricos ou presskits desinteressantes. \n\nEntre em contato conosco agora mesmo e comece a criar presentes personalizados corporativos e \n\nPress Kits de qualidade que realmente farão a diferença. **<p>**<h2>\n\nVamos criar algo incrível? \n\n</h2>\n\n<!--StartFragment-->\n\n**<center>**\n\n<i class=\"i-whatsapp\"></i><a href=\"https://wa.link/yysduw\" class=\"bt\" target=\"_blank\">Fale Conosco </a></center>\n\n<!--EndFragment-->"
+      "markdown": "\n\n**`<center><p>`** \n\n`Entre em contato conosco agora mesmo e comece a criar presentes personalizados corporativos e `\n\n`Press Kits de qualidade que realmente farão a diferença. `**`<p><div>`**\n\n`Vamos criar algo incrível? `\n\n`</h2>`**`</center>`**\n\n``\n\n**`<center>`**\n\n`<i class=\"i-whatsapp\"></i><a href=\"https://wa.link/yysduw\" class=\"bt\" target=\"_blank\">Fale Conosco </a></center>`\n\n`<!--EndFragment-->`"
     }
   ]
 }
