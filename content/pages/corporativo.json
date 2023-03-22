@@ -47,6 +47,11 @@
       "html": "<center><p> Aqui na Roberta Aprea Ateliê, nós nos dedicamos a criar presentes personalizados que irão elevar seus eventos e celebrações a um nível completamente novo. Oferecemos uma ampla variedade de opções de presentes personalizados corporativos para atender às suas necessidades específicas. \n\n<div>Seja para presentear seus clientes, fornecedores ou colaboradores, temos opções que se adequam a todos os gostos e estilos.</center></p>\n"
     },
     {
+      "type": "responsive-banner",
+      "img": "/img/uploads/__fachada-a.webp",
+      "mobile_img": "/img/uploads/__fachada-pag-mobile.webp"
+    },
+    {
       "type": "collection-shelf",
       "shuffle": false,
       "limit": 12,
@@ -57,8 +62,8 @@
       "title": "Mais vistos "
     },
     {
-      "type": "custom-content",
-      "markdown": "<center>\n\nTodos os nossos produtos são feitos com os melhores materiais e cuidadosamente confeccionados para garantir\n\nque atendam às suas expectativas e necessidades. \n\nAlguns de nossos produtos personalizados incluem caixas cartonadas, canecas, sacolas, convites, papelaria personalizada e muito mais. \n\nAlém disso, oferecemos Press Kits Profissionais e de alta qualidade para ajudá-lo a divulgar sua marca e sua empresa.\n\nEnviaremos o seu pedido para qualquer lugar do Brasil, para que você possa desfrutar de nossos produtos personalizados, não importa onde esteja. \n\nApós fazer sua compra, entraremos em contato para entender todos os detalhes da sua necessidade e garantir que seu pedido seja completamente personalizado.<div></center>\n\n<!--EndFragment-->"
+      "type": "custom-html",
+      "html": "<center>\n\n<p>Todos os nossos produtos são feitos com os melhores materiais e cuidadosamente confeccionados para garantir\n\nque atendam às suas expectativas e necessidades. \n\nAlguns de nossos produtos personalizados incluem caixas cartonadas, canecas, sacolas, convites, papelaria personalizada e muito mais. \n\nAlém disso, oferecemos Press Kits Profissionais e de alta qualidade para ajudá-lo a divulgar sua marca e sua empresa.\n\nEnviaremos o seu pedido para qualquer lugar do Brasil, para que você possa desfrutar de nossos produtos personalizados, não importa onde esteja. \n\nApós fazer sua compra, entraremos em contato para entender todos os detalhes da sua necessidade e garantir que seu pedido seja completamente personalizado.<div></p></center>\n"
     },
     {
       "type": "collection-shelf",
@@ -71,21 +76,8 @@
       "link": "https://loja.robertaapreaatelie.com.br/caixas-cartonadas-personalizadas"
     },
     {
-      "type": "banner-slider",
-      "autoplay": 9000,
-      "full_width": false,
-      "slides": [
-        {
-          "start": "2023-03-16T18:28:05.760Z",
-          "end": "",
-          "img": "/img/uploads/web-1920-3.png",
-          "mobile_img": "/img/uploads/mobilem-1.png"
-        }
-      ]
-    },
-    {
-      "type": "custom-content",
-      "markdown": "\n\n**`<center><p>`** \n\n`Entre em contato conosco agora mesmo e comece a criar presentes personalizados corporativos e `\n\n`Press Kits de qualidade que realmente farão a diferença. `**`<p><div>`**\n\n`Vamos criar algo incrível? `\n\n`</h2>`**`</center>`**\n\n``\n\n**`<center>`**\n\n`<i class=\"i-whatsapp\"></i><a href=\"https://wa.link/yysduw\" class=\"bt\" target=\"_blank\">Fale Conosco </a></center>`\n\n`<!--EndFragment-->`"
+      "type": "custom-html",
+      "html": "<center>\n\n<a href=\"https://loja.robertaapreaatelie.com.br/lembrancas-para-empresas\" class=\"bt1\" target=\"_blank\">ver todos </a></center>\n\n<center>\n\nEntre em contato conosco agora mesmo e comece a criar presentes personalizados corporativos e Press Kits de qualidade que realmente farão a diferença.<p><div>\n\n<h2>Vamos criar algo incrível?`\n\n</h2></center>\n\n\n\n<center>\n\n<i class=\"i-whatsapp\"></i><a href=\"https://wa.link/yysduw\" class=\"bt\" target=\"_blank\">Fale Conosco </a></center>\n"
     }
   ]
 }
