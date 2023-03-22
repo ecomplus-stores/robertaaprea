@@ -4,9 +4,34 @@
     "text": ""
   },
   "links_1": {
-    "list_pages": true,
+    "list_pages": false,
     "title": "Ajuda",
-    "list": []
+    "list": [
+      {
+        "text": "Como Comprar",
+        "url": "https://loja.robertaapreaatelie.com.br/pages/faq"
+      },
+      {
+        "text": "Condições de Entrega ",
+        "url": "https://loja.robertaapreaatelie.com.br/pages/entrega"
+      },
+      {
+        "text": "Formas de Pagamento",
+        "url": "https://loja.robertaapreaatelie.com.br/pages/pagamentos"
+      },
+      {
+        "text": "Sobre Nós ",
+        "url": "https://loja.robertaapreaatelie.com.br/pages/sobre-nos"
+      },
+      {
+        "text": "Privacidade & Segurança",
+        "url": "https://loja.robertaapreaatelie.com.br/pages/privacidade"
+      },
+      {
+        "text": "Trocas & Devolução",
+        "url": "https://loja.robertaapreaatelie.com.br/pages/trocas"
+      }
+    ]
   },
   "links_2": {
     "list_categories": false,
