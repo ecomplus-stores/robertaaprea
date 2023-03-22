@@ -8,80 +8,81 @@
       "full_width": true,
       "slides": [
         {
-          "start": "2022-06-21T12:50:23.385Z",
+          "start": "2023-03-22T03:16:56.873Z",
           "end": "",
-          "img": "/img/uploads/slide-lembrancas-infantil-junho22.jpg",
-          "mobile_img": "/img/uploads/slide-lembrancas-infantil-junho22m.jpg",
-          "link": "https://loja.robertaapreaatelie.com.br/caixa-supresa-4-lados"
+          "img": "/img/uploads/__corporativo-s.webp",
+          "mobile_img": "/img/uploads/__lembrtancas-mobile-copiar-2.webp",
+          "link": "https://loja.robertaapreaatelie.com.br/pages/corporativo"
         },
         {
-          "start": "2022-06-21T12:51:10.607Z",
+          "start": "2023-03-22T03:16:51.425Z",
           "end": "",
-          "img": "/img/uploads/slide-lembrancas-maleta-junho22.jpg",
-          "mobile_img": "/img/uploads/slide-lembrancas-maleta-junho22m.jpg",
-          "link": "https://loja.robertaapreaatelie.com.br/maleta-de-atividades-triangular"
+          "img": "/img/uploads/__lembr4ancas-s.webp",
+          "mobile_img": "/img/uploads/__lembrtancas-mobile-copiar.webp",
+          "link": "https://loja.robertaapreaatelie.com.br/lembrancas"
         },
         {
-          "start": "2022-08-23T16:10:25.099Z",
+          "start": "2023-03-22T03:16:42.137Z",
           "end": "",
-          "img": "/img/uploads/desktop-2023.jpg",
-          "link": "https://loja.robertaapreaatelie.com.br/master-planner-personalizado",
-          "mobile_img": "/img/uploads/banner-mobile-2023.jpg"
-        },
-        {
-          "start": "2022-06-21T12:51:59.902Z",
-          "end": "",
-          "img": "/img/uploads/slide-papelaria-luxo-junho22.jpg",
-          "mobile_img": "/img/uploads/slide-papelaria-luxo-junho22m.jpg",
-          "link": "https://loja.robertaapreaatelie.com.br/caixapapelariapersonalizadaluxo"
-        },
-        {
-          "start": "2022-08-23T16:11:09.154Z",
-          "end": "",
-          "img": "/img/uploads/desktop-canecas.jpg",
-          "link": "https://loja.robertaapreaatelie.com.br/canecas-colecao-2022",
-          "mobile_img": "/img/uploads/banner-mobile-canecas.jpg"
-        },
-        {
-          "start": "2022-06-21T12:49:28.014Z",
-          "end": "",
-          "img": "/img/uploads/slide-jogos-lembrancas-1.jpg",
-          "mobile_img": "/img/uploads/slide-jogos-lembrancas-1m.jpg",
-          "link": "https://loja.robertaapreaatelie.com.br/mastercaixacomjogosmodelo2"
-        }
-      ]
-    },
-    {
-      "type": "banners-grid",
-      "banners": [
-        {
-          "img": "/img/uploads/fachada1nova.jpg",
-          "link": "https://loja.robertaapreaatelie.com.br/pages/entrega",
-          "mobile_img": "/img/uploads/fachadamb.jpg"
+          "img": "/img/uploads/__paper.webp",
+          "link": "https://loja.robertaapreaatelie.com.br/papelaria-personalizada",
+          "mobile_img": "/img/uploads/__paper-mobile.webp"
         }
       ]
     },
     {
       "type": "responsive-banner",
-      "img": "/img/uploads/desktop-faixa-2023.jpg",
-      "link": "https://loja.robertaapreaatelie.com.br/colecao-2023",
-      "mobile_img": "/img/uploads/mobile-faixa-2023.jpg",
-      "alt": "Coleção 2023, vem conferir!"
+      "img": "/img/uploads/__fachada1.webp",
+      "link": "https://loja.robertaapreaatelie.com.br/pages/entrega",
+      "mobile_img": "/img/uploads/__fachada-mobile.webp",
+      "alt": ""
     },
     {
-      "type": "dynamic-showcase",
-      "load_more": false,
-      "sort": "sales"
+      "type": "banners-grid",
+      "banners": [
+        {
+          "img": "/img/uploads/__trio1.webp",
+          "link": "https://loja.robertaapreaatelie.com.br/caixas-cartonadas-personalizadas"
+        },
+        {
+          "img": "/img/uploads/__trio2.webp",
+          "link": "https://loja.robertaapreaatelie.com.br/lembrancas"
+        },
+        {
+          "img": "/img/uploads/__trio3.webp",
+          "link": "https://loja.robertaapreaatelie.com.br/batizado"
+        },
+        {
+          "img": "/img/uploads/__trio-corporativo1.webp",
+          "link": "https://loja.robertaapreaatelie.com.br/lembrancas-para-empresas"
+        }
+      ]
     },
     {
       "type": "collection-shelf",
       "shuffle": false,
       "limit": 12,
       "page": 1,
-      "collection_id": "6317bcc673321213f869b620:collections:Coleção Le Jardin por Xuxa Pires:/colecao-le-jardin-xuxa-pires",
+      "sort": "news",
+      "collection_id": "611a756bcfbcd970597f5370:categories:Presentes:/presentes-personalizados/",
+      "title": "↬ Encante com Presentes Personalizados",
+      "link": "https://loja.robertaapreaatelie.com.br/presentes-personalizados/"
+    },
+    {
+      "type": "responsive-banner",
+      "img": "/img/uploads/__fachada-a.webp",
+      "mobile_img": "/img/uploads/__fachada-pag-mobile.webp",
+      "link": "https://loja.robertaapreaatelie.com.br/pages/pagamentos"
+    },
+    {
+      "type": "collection-shelf",
+      "shuffle": false,
+      "limit": 12,
+      "page": 1,
+      "collection_id": "614a9d24bf447b5f0e031949:categories:Pronta Entrega:/pronta-entrega",
       "sort": "sales",
-      "title": "Coleção Le Jardin por Xuxa Pires - Conheça ",
-      "link": "https://loja.robertaapreaatelie.com.br/colecao-le-jardin-xuxa-pires"
+      "link": "https://loja.robertaapreaatelie.com.br/pronta-entrega",
+      "title": "↬ Produtos a Pronta Entrega "
     },
     {
       "type": "collection-shelf",
@@ -92,19 +93,6 @@
       "sort": "sales",
       "title": "↬Master Planner Coleção 2023 ",
       "link": "https://loja.robertaapreaatelie.com.br/master-planner-personalizado"
-    },
-    {
-      "type": "banners-grid",
-      "banners": [
-        {
-          "img": "/img/uploads/banner-mobile-2023-colecao.jpg",
-          "link": "https://loja.robertaapreaatelie.com.br/colecao-2023"
-        },
-        {
-          "img": "/img/uploads/banner-mobile-2023-combos.jpg",
-          "link": "https://loja.robertaapreaatelie.com.br/colecao-2023"
-        }
-      ]
     },
     {
       "type": "collection-shelf",
@@ -121,43 +109,10 @@
       "shuffle": false,
       "limit": 12,
       "page": 1,
-      "sort": "news",
-      "collection_id": "611a756bcfbcd970597f5370:categories:Presentes:/presentes-personalizados/",
-      "title": "↬ Encante com Presentes Personalizados",
-      "link": "https://loja.robertaapreaatelie.com.br/presentes-personalizados/"
-    },
-    {
-      "type": "collection-shelf",
-      "shuffle": false,
-      "limit": 12,
-      "page": 1,
       "collection_id": "610d9f0d33f3ce442f85952d:categories:Mamãe & Bebê:/mamae-e-bebe",
       "sort": "sales",
       "title": "♡ Mamãe e Bebê : Da Gestação ao Primeiro Aniversário - Cuidado e Carinho para Vocês! ",
       "link": "https://loja.robertaapreaatelie.com.br/mamae-e-bebe"
-    },
-    {
-      "type": "banners-grid",
-      "banners": [
-        {
-          "img": "/img/uploads/papelariatrio.jpg",
-          "link": "https://loja.robertaapreaatelie.com.br/especial-colecao-2022"
-        },
-        {
-          "img": "/img/uploads/lembrancastrio.jpg",
-          "link": "https://loja.robertaapreaatelie.com.br/lembrancas"
-        }
-      ]
-    },
-    {
-      "type": "collection-shelf",
-      "shuffle": false,
-      "limit": 12,
-      "page": 1,
-      "collection_id": "614a9d24bf447b5f0e031949:categories:Pronta Entrega:/pronta-entrega",
-      "sort": "sales",
-      "link": "https://loja.robertaapreaatelie.com.br/pronta-entrega",
-      "title": "↬ Produtos a Pronta Entrega "
     },
     {
       "type": "info-bar",
