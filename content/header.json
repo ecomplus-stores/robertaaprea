@@ -23,18 +23,13 @@
   },
   "categories_list": {
     "featured": [
-      "/saia-do-rascunho?Coleção Saia do Rascunho",
-      "/colecao-le-jardin-xuxa-pires?Coleção Le Jardin por Xuxa Pires",
-      "/colecao-2023?Coleção 2023",
-      "/pronta-entrega?Pronta Entrega",
       "/papelaria-personalizada?Papelaria",
-      "/mamae-e-bebe?Mamãe & Bebê",
       "/lembrancas?Lembranças",
-      "/presentes-personalizados/?Presentes",
-      "/convites/?Convites ",
+      "/pronta-entrega?Pronta Entrega",
+      "/batizado?Batizado",
       "/mais-categorias/?+ Categorias"
     ],
-    "random": 12,
+    "random": 5,
     "full_width": true
   },
   "search_input": true,
