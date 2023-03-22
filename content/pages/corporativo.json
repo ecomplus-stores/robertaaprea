@@ -30,7 +30,7 @@
         },
         {
           "img": "/img/uploads/__trio-corporativo1.webp",
-          "link": "https://loja.robertaapreaatelie.com.br/lembrancas-para-empresas"
+          "link": "https://loja.robertaapreaatelie.com.br/presskits"
         },
         {
           "img": "/img/uploads/__trio-corporativo2.webp",
@@ -41,6 +41,16 @@
     {
       "type": "extra-page",
       "enabled": true
+    },
+    {
+      "type": "collection-shelf",
+      "shuffle": false,
+      "limit": 12,
+      "page": 1,
+      "collection_id": "641b341d4bd2e929c1ab5b57:collections:Corporativo:/presskits",
+      "sort": "views",
+      "link": "https://loja.robertaapreaatelie.com.br/presskits",
+      "title": "Press Kits | Embalagens Premium , veja mais "
     },
     {
       "type": "custom-html",
@@ -57,7 +67,7 @@
       "limit": 12,
       "page": 1,
       "collection_id": "6119cba4cfbcd970597f1346:categories:Corporativo:/lembrancas-para-empresas",
-      "sort": "sales",
+      "sort": "views",
       "link": "https://loja.robertaapreaatelie.com.br/lembrancas-para-empresas",
       "title": "Mais vistos "
     },
@@ -71,7 +81,7 @@
       "limit": 12,
       "page": 1,
       "collection_id": "612a65741250e82405c28393:categories:Caixas Cartonadas Personalizadas:/caixas-cartonadas-personalizadas",
-      "sort": "views",
+      "sort": "sales",
       "title": "Os mais pedidos",
       "link": "https://loja.robertaapreaatelie.com.br/caixas-cartonadas-personalizadas"
     },
