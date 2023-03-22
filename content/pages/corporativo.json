@@ -30,6 +30,23 @@
       "mobile_img": "/img/uploads/__fachada-mobile.webp"
     },
     {
+      "type": "banners-grid",
+      "banners": [
+        {
+          "img": "/img/uploads/__trio-corporativo.webp",
+          "link": "https://loja.robertaapreaatelie.com.br/caixas-cartonadas-personalizadas"
+        },
+        {
+          "img": "/img/uploads/__trio-corporativo1.webp",
+          "link": "https://loja.robertaapreaatelie.com.br/lembrancas-para-empresas"
+        },
+        {
+          "img": "/img/uploads/__trio-corporativo2.webp",
+          "link": "https://loja.robertaapreaatelie.com.br/lembrancas-para-empresas"
+        }
+      ]
+    },
+    {
       "type": "collection-shelf",
       "shuffle": false,
       "limit": 12,
