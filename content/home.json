@@ -64,7 +64,7 @@
       "limit": 12,
       "page": 1,
       "collection_id": "641b341d4bd2e929c1ab5b57:collections:Corporativo:/presskits",
-      "sort": "news",
+      "sort": "views",
       "link": "https://loja.robertaapreaatelie.com.br/presskits",
       "title": "Press Kits para divulgação de eventos e marcas encomende conosco."
     },
@@ -90,7 +90,7 @@
       "limit": 12,
       "page": 1,
       "collection_id": "614a9d24bf447b5f0e031949:categories:Pronta Entrega:/pronta-entrega",
-      "sort": "views",
+      "sort": "sales",
       "link": "https://loja.robertaapreaatelie.com.br/pronta-entrega",
       "title": "↬ Produtos a Pronta Entrega "
     },
@@ -119,8 +119,8 @@
       "shuffle": false,
       "limit": 12,
       "page": 1,
-      "collection_id": "6119cc5ecfbcd970597f13a2:categories:Batizado:/batizado",
-      "sort": "news",
+      "collection_id": "610d9f0d33f3ce442f85952d:categories:Mamãe & Bebê:/mamae-e-bebe",
+      "sort": "sales",
       "title": "♡ Mamãe e Bebê : Da Gestação ao Primeiro Aniversário - Cuidado e Carinho para Vocês! ",
       "link": "https://loja.robertaapreaatelie.com.br/mamae-e-bebe"
     },
