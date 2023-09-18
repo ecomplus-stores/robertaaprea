@@ -30,7 +30,7 @@
       "/batizado?Batizado",
       "/mais-categorias/?+ Categorias"
     ],
-    "random": 6,
+    "random": 8,
     "full_width": true
   },
   "search_input": true,
