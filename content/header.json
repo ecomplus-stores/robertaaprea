@@ -23,13 +23,14 @@
   },
   "categories_list": {
     "featured": [
+      "/colecao-2024?Coleção 2024",
       "/papelaria-personalizada?Papelaria",
       "/lembrancas?Lembranças",
       "/pronta-entrega?Pronta Entrega",
       "/batizado?Batizado",
       "/mais-categorias/?+ Categorias"
     ],
-    "random": 5,
+    "random": 6,
     "full_width": true
   },
   "search_input": true,
