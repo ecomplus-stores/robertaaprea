@@ -38,27 +38,6 @@
       "alt": ""
     },
     {
-      "type": "banners-grid",
-      "banners": [
-        {
-          "img": "/img/uploads/__trio1.webp",
-          "link": "https://loja.robertaapreaatelie.com.br/caixas-cartonadas-personalizadas"
-        },
-        {
-          "img": "/img/uploads/__trio2.webp",
-          "link": "https://loja.robertaapreaatelie.com.br/lembrancas"
-        },
-        {
-          "img": "/img/uploads/__trio3.webp",
-          "link": "https://loja.robertaapreaatelie.com.br/batizado"
-        },
-        {
-          "img": "/img/uploads/trio-corporativo-presskits.png",
-          "link": "https://loja.robertaapreaatelie.com.br/presskits"
-        }
-      ]
-    },
-    {
       "type": "collection-shelf",
       "shuffle": false,
       "limit": 12,
@@ -85,14 +64,9 @@
       "link": "https://loja.robertaapreaatelie.com.br/pages/pagamentos"
     },
     {
-      "type": "collection-shelf",
-      "shuffle": false,
-      "limit": 12,
-      "page": 1,
-      "collection_id": "611a756bcfbcd970597f5370:categories:Presentes:/presentes-personalizados/",
-      "sort": "sales",
-      "link": "https://loja.robertaapreaatelie.com.br/presentes-personalizados/",
-      "title": "↬ Produtos a Pronta Entrega "
+      "type": "dynamic-showcase",
+      "load_more": false,
+      "sort": "views"
     },
     {
       "type": "info-bar",
