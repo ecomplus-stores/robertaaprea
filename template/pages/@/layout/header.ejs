@@ -339,7 +339,7 @@ const hasAllDepartments = header.menu_all_departments
                     %>
                     <nav class="header__submenu<%= fullWidthSubmenu ? ' header__submenu--full' : '' %>" id="<%= `s-${slug.replace(/\//g, '_')}` %>">
                       <% subcategories.forEach(subcategory => { %>
-                        <div>     <a href="https://loja.robertaapreaatelie.com.br/pages/corporativo">Corporativo</a>          
+                        <div>            
                           <a id="sd-<%= subcategory._id %>" href="/<%= subcategory.slug %>"><%= subcategory.name %></a>
                           <% const thirdCategories = _.categories.filter(({ parent }) => parent && parent.slug === subcategory.slug) %>
                           <%
