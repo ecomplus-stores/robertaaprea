@@ -23,8 +23,7 @@
   },
   "categories_list": {
     "featured": [
-      "/presentes-personalizados/?Presentes",
-      "/lembrancas?Lembranças"
+      "/presentes-personalizados/?Presentes"
     ],
     "random": 8,
     "full_width": true
