@@ -23,14 +23,15 @@
   },
   "categories_list": {
     "featured": [
-      "/lembrancas?Lembranças",
-      "/pronta-entrega?Pronta Entrega"
+      "/presentes-personalizados/?Presentes",
+      "/lembrancas?Lembranças"
     ],
     "random": 8,
     "full_width": true
   },
   "search_input": true,
-  "desktop_megamenu": false,
+  "desktop_megamenu": true,
   "alphabetical_order_submenu": true,
-  "full_width_submenu": true
+  "full_width_submenu": true,
+  "menu_all_departments": true
 }
