@@ -1,13 +1,9 @@
 {
   "sort_categories": [
-    "papelaria-personalizada",
     "lembrancas",
-    "batizado",
-    "pronta-entrega",
-    "presentes-personalizados/",
-    "mais-categorias/"
+    "presentes-personalizados/"
   ],
   "phone_wpp": true,
   "socials": true,
-  "alphabetical_order": false
+  "alphabetical_order": true
 }
