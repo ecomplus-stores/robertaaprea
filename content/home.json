@@ -79,16 +79,6 @@
       "title": "↬Press Kits para divulgação de eventos e marcas encomende conosco."
     },
     {
-      "type": "collection-shelf",
-      "shuffle": false,
-      "limit": 12,
-      "page": 1,
-      "sort": "sales",
-      "collection_id": "611a756bcfbcd970597f5370:categories:Presentes:/presentes-personalizados/",
-      "title": "↬ Encante com Presentes Personalizados",
-      "link": "https://loja.robertaapreaatelie.com.br/presentes-personalizados/"
-    },
-    {
       "type": "responsive-banner",
       "img": "/img/uploads/__fachada-a.webp",
       "mobile_img": "/img/uploads/__fachada-pag-mobile.webp",
@@ -99,30 +89,10 @@
       "shuffle": false,
       "limit": 12,
       "page": 1,
-      "collection_id": "614a9d24bf447b5f0e031949:categories:Pronta Entrega:/pronta-entrega",
+      "collection_id": "611a756bcfbcd970597f5370:categories:Presentes:/presentes-personalizados/",
       "sort": "sales",
-      "link": "https://loja.robertaapreaatelie.com.br/pronta-entrega",
+      "link": "https://loja.robertaapreaatelie.com.br/presentes-personalizados/",
       "title": "↬ Produtos a Pronta Entrega "
-    },
-    {
-      "type": "collection-shelf",
-      "shuffle": false,
-      "collection_id": "6119cb55cfbcd970597f132c:categories:Infantil:/lembrancas-festas-infantil",
-      "limit": 12,
-      "page": 1,
-      "sort": "sales",
-      "title": "↬ Lembranças para Comemorações Inesquecíveis ",
-      "link": "https://loja.robertaapreaatelie.com.br/lembrancas-festas-infantil"
-    },
-    {
-      "type": "collection-shelf",
-      "shuffle": false,
-      "limit": 12,
-      "page": 1,
-      "collection_id": "610d9f0d33f3ce442f85952d:categories:Mamãe & Bebê:/mamae-e-bebe",
-      "sort": "sales",
-      "title": "♡ Mamãe e Bebê : Da Gestação ao Primeiro Aniversário - Cuidado e Carinho para Vocês! ",
-      "link": "https://loja.robertaapreaatelie.com.br/mamae-e-bebe"
     },
     {
       "type": "info-bar",
