@@ -23,9 +23,11 @@
   },
   "categories_list": {
     "featured": [
-      "/presentes-personalizados/?Presentes"
+      "/presentes-personalizados/?Presentes",
+      "/lembrancas?Lembranças em Cartonagem",
+      "/diversos?Diversos"
     ],
-    "random": 8,
+    "random": 3,
     "full_width": true
   },
   "search_input": true,
