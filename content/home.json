@@ -44,12 +44,6 @@
       "title": "↬Press Kits para divulgação de eventos e marcas encomende conosco."
     },
     {
-      "type": "responsive-banner",
-      "img": "/img/uploads/__fachada-a.webp",
-      "mobile_img": "/img/uploads/__fachada-pag-mobile.webp",
-      "link": "https://loja.robertaapreaatelie.com.br/pages/pagamentos"
-    },
-    {
       "type": "dynamic-showcase",
       "load_more": false,
       "sort": "views"
