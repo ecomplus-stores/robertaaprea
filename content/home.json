@@ -26,6 +26,12 @@
     },
     {
       "type": "responsive-banner",
+      "img": "/img/uploads/chamada-d.png",
+      "mobile_img": "/img/uploads/chamada1.png",
+      "link": "https://loja.robertaapreaatelie.com.br/pages/faq"
+    },
+    {
+      "type": "responsive-banner",
       "img": "/img/uploads/__fachada1.webp",
       "link": "https://loja.robertaapreaatelie.com.br/pages/entrega",
       "mobile_img": "/img/uploads/__fachada-mobile.webp",
