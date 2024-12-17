@@ -1,6 +1,12 @@
 {
   "sections": [
     {
+      "type": "responsive-banner",
+      "img": "/img/uploads/chamada-d.png",
+      "link": "https://loja.robertaapreaatelie.com.br/pages/faq",
+      "mobile_img": "/img/uploads/chamada1.png"
+    },
+    {
       "type": "document-banner",
       "enabled": true
     },
