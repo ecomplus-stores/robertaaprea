@@ -10,32 +10,62 @@
         {
           "start": "2023-03-22T03:16:56.873Z",
           "end": "",
-          "img": "/img/uploads/corporatiovos.png",
-          "mobile_img": "/img/uploads/__lembrtancas-mobile-copiar-2.webp",
-          "link": "https://loja.robertaapreaatelie.com.br/pages/corporativo"
+          "img": "/img/uploads/surpreenda.png",
+          "mobile_img": "/img/uploads/surpreendam.png",
+          "link": "https://loja.robertaapreaatelie.com.br/lembrancas",
+          "alt": "Surpreenda com Lembranças Personalizadas Roberta Aprea Ateliê"
+        }
+      ]
+    },
+    {
+      "type": "banners-grid",
+      "banners": [
+        {
+          "img": "/img/uploads/maletas.png",
+          "link": "https://loja.robertaapreaatelie.com.br/maletas-cartonadas",
+          "alt": "Maletas Cartonadas Personalizadas Roberta Aprea Ateliê"
         },
         {
-          "start": "2024-12-05T03:25:12.193Z",
+          "img": "/img/uploads/caixas.png",
+          "link": "https://loja.robertaapreaatelie.com.br/caixas-cartonadas-personalizadas",
+          "alt": "Caixas Cartonadas Personalizadas Roberta Aprea Ateliê"
+        }
+      ]
+    },
+    {
+      "type": "banner-slider",
+      "autoplay": 0,
+      "full_width": true,
+      "slides": [
+        {
+          "start": "2025-03-26T01:28:14.443Z",
           "end": "",
-          "img": "/img/uploads/cartonagem-d1.webp",
-          "mobile_img": "/img/uploads/cartonagem-m.webp",
-          "link": "https://loja.robertaapreaatelie.com.br/lembrancas",
-          "alt": "Lembranças em Cartonagem"
+          "img": "/img/uploads/suafestamarcante.png",
+          "link": "https://wa.me/55051981051965",
+          "alt": "Sua Festa Personalizada Marcante com Roberta Aprea Ateliê",
+          "mobile_img": "/img/uploads/suafestamarcante-m.png"
+        }
+      ]
+    },
+    {
+      "type": "banner-slider",
+      "autoplay": 0,
+      "full_width": true,
+      "slides": [
+        {
+          "start": "2025-03-26T01:28:03.314Z",
+          "end": "",
+          "img": "/img/uploads/corporativos.png",
+          "link": "https://loja.robertaapreaatelie.com.br/pages/corporativo",
+          "alt": "Corporativos, Presskits, Brindes - Roberta Aprea Ateliê "
         }
       ]
     },
     {
       "type": "responsive-banner",
-      "img": "/img/uploads/chamada-d.png",
-      "mobile_img": "/img/uploads/chamada1.png",
+      "img": "/img/uploads/aviso.png",
+      "mobile_img": "/img/uploads/aviso-m.png",
       "link": "https://loja.robertaapreaatelie.com.br/pages/faq"
-    },
-    {
-      "type": "responsive-banner",
-      "img": "/img/uploads/__fachada1.webp",
-      "link": "https://loja.robertaapreaatelie.com.br/pages/entrega",
-      "mobile_img": "/img/uploads/__fachada-mobile.webp",
-      "alt": ""
     },
     {
       "type": "collection-shelf",
@@ -46,21 +76,6 @@
       "sort": "news",
       "link": "https://loja.robertaapreaatelie.com.br/destaques",
       "title": "↬ Destaques da Semana "
-    },
-    {
-      "type": "collection-shelf",
-      "shuffle": false,
-      "limit": 12,
-      "page": 1,
-      "collection_id": "641b341d4bd2e929c1ab5b57:collections:Corporativo:/presskits",
-      "sort": "views",
-      "link": "https://loja.robertaapreaatelie.com.br/presskits",
-      "title": "↬Press Kits para divulgação de eventos e marcas encomende conosco."
-    },
-    {
-      "type": "dynamic-showcase",
-      "load_more": false,
-      "sort": "views"
     },
     {
       "type": "info-bar",
