@@ -48,6 +48,16 @@
       ]
     },
     {
+      "type": "collection-shelf",
+      "shuffle": false,
+      "limit": 12,
+      "page": 1,
+      "collection_id": "6723e4bf86609e53f864aec6:collections:Destaques Home:/destaques",
+      "sort": "news",
+      "link": "https://loja.robertaapreaatelie.com.br/destaques",
+      "title": "↬ Destaques da Semana "
+    },
+    {
       "type": "banner-slider",
       "autoplay": 0,
       "full_width": true,
@@ -62,20 +72,20 @@
       ]
     },
     {
-      "type": "responsive-banner",
-      "img": "/img/uploads/aviso.png",
-      "mobile_img": "/img/uploads/aviso-m.png",
-      "link": "https://loja.robertaapreaatelie.com.br/pages/faq"
-    },
-    {
       "type": "collection-shelf",
       "shuffle": false,
       "limit": 12,
       "page": 1,
-      "collection_id": null,
-      "sort": "sales",
-      "link": "https://loja.robertaapreaatelie.com.br/destaques",
-      "title": "↬ Destaques da Semana "
+      "collection_id": "641b341d4bd2e929c1ab5b57:collections:Corporativo:/presskits",
+      "sort": "news",
+      "link": "https://loja.robertaapreaatelie.com.br/",
+      "title": "↬ Press Kits e mais para empresas"
+    },
+    {
+      "type": "responsive-banner",
+      "img": "/img/uploads/aviso.png",
+      "mobile_img": "/img/uploads/aviso-m.png",
+      "link": "https://loja.robertaapreaatelie.com.br/pages/faq"
     },
     {
       "type": "info-bar",
