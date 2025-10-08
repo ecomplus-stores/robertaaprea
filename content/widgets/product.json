@@ -3,12 +3,12 @@
   "active": true,
   "desktopOnly": false,
   "options": {
-    "buyText": "",
+    "buyText": "COMPRE TAMBÉM POR WHATSAPP",
     "buy": "",
     "strHasQuantitySelector": "_",
     "strHasPromotionTimer": "_",
     "lowQuantityToWarn": 12,
     "maxVariationOptionsBtns": 6,
-    "quoteInfo": ""
+    "quoteInfo": "https://wa.me/5551981051965"
   }
 }
